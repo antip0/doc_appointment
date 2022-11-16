@@ -1,0 +1,111 @@
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\doc_appointment.exe.config
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\doc_appointment.exe
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\doc_appointment.pdb
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\Google.Protobuf.dll
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\MySql.Data.dll
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\System.Buffers.dll
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\System.Memory.dll
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\ZstdNet.dll
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\Google.Protobuf.pdb
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\Google.Protobuf.xml
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\MySql.Data.xml
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\System.Buffers.xml
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\System.Memory.xml
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Release\doc_appointment.csproj.AssemblyReference.cache
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Release\doc_appointment.Form1.resources
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Release\doc_appointment.Form2.resources
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Release\doc_appointment.Form3.resources
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Release\doc_appointment.Form4.resources
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Release\doc_appointment.Form5.resources
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Release\doc_appointment.Properties.Resources.resources
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Release\doc_appointment.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Release\doc_appointment.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Release\doc_appointment.csproj.CopyComplete
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Release\doc_appointment.exe
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Release\doc_appointment.pdb
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\doc_appointment.exe.config
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\doc_appointment.exe
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\doc_appointment.pdb
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\BouncyCastle.Crypto.dll
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\Google.Protobuf.dll
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\K4os.Compression.LZ4.dll
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\K4os.Hash.xxHash.dll
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\MySql.Data.dll
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\System.Buffers.dll
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\System.Memory.dll
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\System.Numerics.Vectors.dll
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\ZstdNet.dll
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\BouncyCastle.Crypto.xml
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\Google.Protobuf.pdb
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\Google.Protobuf.xml
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\K4os.Compression.LZ4.xml
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\K4os.Compression.LZ4.Streams.xml
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\K4os.Hash.xxHash.xml
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\MySql.Data.xml
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\System.Buffers.xml
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\System.Memory.xml
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\System.Numerics.Vectors.xml
+D:\VS Projects\doc_appointment\doc_appointment\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\VS Projects\doc_appointment\doc_appointment\obj\Release\doc_appointment.csproj.AssemblyReference.cache
+D:\VS Projects\doc_appointment\doc_appointment\obj\Release\doc_appointment.Form1.resources
+D:\VS Projects\doc_appointment\doc_appointment\obj\Release\doc_appointment.Form2.resources
+D:\VS Projects\doc_appointment\doc_appointment\obj\Release\doc_appointment.Form3.resources
+D:\VS Projects\doc_appointment\doc_appointment\obj\Release\doc_appointment.Form4.resources
+D:\VS Projects\doc_appointment\doc_appointment\obj\Release\doc_appointment.Form5.resources
+D:\VS Projects\doc_appointment\doc_appointment\obj\Release\doc_appointment.Properties.Resources.resources
+D:\VS Projects\doc_appointment\doc_appointment\obj\Release\doc_appointment.csproj.GenerateResource.cache
+D:\VS Projects\doc_appointment\doc_appointment\obj\Release\doc_appointment.csproj.CoreCompileInputs.cache
+D:\VS Projects\doc_appointment\doc_appointment\obj\Release\doc_appointment.csproj.CopyComplete
+D:\VS Projects\doc_appointment\doc_appointment\obj\Release\doc_appointment.exe
+D:\VS Projects\doc_appointment\doc_appointment\obj\Release\doc_appointment.pdb
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\doc_appointment.exe.config
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\doc_appointment.exe
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\doc_appointment.pdb
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\Google.Protobuf.dll
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\MySql.Data.dll
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\System.Buffers.dll
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\System.Memory.dll
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\ZstdNet.dll
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\Google.Protobuf.pdb
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\Google.Protobuf.xml
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\MySql.Data.xml
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\System.Buffers.xml
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\System.Memory.xml
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\obj\Release\doc_appointment.csproj.AssemblyReference.cache
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\obj\Release\doc_appointment.Form1.resources
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\obj\Release\doc_appointment.Form2.resources
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\obj\Release\doc_appointment.Form3.resources
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\obj\Release\doc_appointment.Form4.resources
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\obj\Release\doc_appointment.Form5.resources
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\obj\Release\doc_appointment.Properties.Resources.resources
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\obj\Release\doc_appointment.csproj.GenerateResource.cache
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\obj\Release\doc_appointment.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\obj\Release\doc_appointment.csproj.CopyComplete
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\obj\Release\doc_appointment.exe
+C:\Users\Игорь\Desktop\doc_appointment\doc_appointment\obj\Release\doc_appointment.pdb

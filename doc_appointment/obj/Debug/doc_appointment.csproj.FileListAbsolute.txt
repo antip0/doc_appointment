@@ -1,0 +1,74 @@
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\doc_appointment.exe.config
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\doc_appointment.exe
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\doc_appointment.pdb
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\Google.Protobuf.dll
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\MySql.Data.dll
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\System.Buffers.dll
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\System.Memory.dll
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\ZstdNet.dll
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\Google.Protobuf.pdb
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\Google.Protobuf.xml
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\MySql.Data.xml
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\System.Buffers.xml
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\System.Memory.xml
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Debug\doc_appointment.csproj.AssemblyReference.cache
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Debug\doc_appointment.Form1.resources
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Debug\doc_appointment.Form2.resources
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Debug\doc_appointment.Properties.Resources.resources
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Debug\doc_appointment.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Debug\doc_appointment.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Debug\doc_appointment.csproj.CopyComplete
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Debug\doc_appointment.exe
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Debug\doc_appointment.pdb
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Debug\doc_appointment.Form3.resources
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Debug\doc_appointment.Form4.resources
+C:\Users\Игорь\source\repos\doc_appointment\doc_appointment\obj\Debug\doc_appointment.Form5.resources
+D:\VS Projects\doc_appointment\doc_appointment\obj\Debug\doc_appointment.csproj.AssemblyReference.cache
+D:\VS Projects\doc_appointment\doc_appointment\obj\Debug\doc_appointment.Form1.resources
+D:\VS Projects\doc_appointment\doc_appointment\obj\Debug\doc_appointment.Form2.resources
+D:\VS Projects\doc_appointment\doc_appointment\obj\Debug\doc_appointment.Form3.resources
+D:\VS Projects\doc_appointment\doc_appointment\obj\Debug\doc_appointment.Form4.resources
+D:\VS Projects\doc_appointment\doc_appointment\obj\Debug\doc_appointment.Form5.resources
+D:\VS Projects\doc_appointment\doc_appointment\obj\Debug\doc_appointment.csproj.GenerateResource.cache
+D:\VS Projects\doc_appointment\doc_appointment\obj\Debug\doc_appointment.exe
+D:\VS Projects\doc_appointment\doc_appointment\obj\Debug\doc_appointment.pdb
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\doc_appointment.exe.config
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\doc_appointment.exe
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\doc_appointment.pdb
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\BouncyCastle.Crypto.dll
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\Google.Protobuf.dll
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\K4os.Compression.LZ4.dll
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\K4os.Hash.xxHash.dll
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\MySql.Data.dll
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\System.Buffers.dll
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\System.Memory.dll
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\System.Numerics.Vectors.dll
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\ZstdNet.dll
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\BouncyCastle.Crypto.xml
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\Google.Protobuf.pdb
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\Google.Protobuf.xml
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\K4os.Compression.LZ4.xml
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\K4os.Hash.xxHash.xml
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\MySql.Data.xml
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\System.Buffers.xml
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\System.Memory.xml
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\System.Numerics.Vectors.xml
+D:\VS Projects\doc_appointment\doc_appointment\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VS Projects\doc_appointment\doc_appointment\obj\Debug\doc_appointment.Properties.Resources.resources
+D:\VS Projects\doc_appointment\doc_appointment\obj\Debug\doc_appointment.csproj.CoreCompileInputs.cache
+D:\VS Projects\doc_appointment\doc_appointment\obj\Debug\doc_appointment.csproj.CopyComplete
